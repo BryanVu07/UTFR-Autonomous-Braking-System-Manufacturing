@@ -4,7 +4,7 @@
 This README provides an overview of the key accomplishments and reference images related to the development of the Mechanical Braking Systems for the University of Toronto Formula Racing (UTFR) team's competition vehicles. The images included are for reference only and depict various stages of the design and manufacturing processes carried out by others.
 
 ## Important Note
-I did not participate in any part of the manufacturing or integration of the Mechanical Braking Systems. All credit for the manufacturing, and integration belongs to the UT24 Brakes Lead - Mo Taban. The images provided are solely for reference and do not represent my personal contributions to the project.
+I did not participate in any part of the manufacturing or integration of the Mechanical Braking Systems. All credit for the manufacturing, and integration belongs to the UT24 Brakes Lead - Mo Taban. The images provided are solely for reference of what we did last and how it will influenced this year's Autonomous Braking System Setting.
 
 1.0 EBS Pistons Engage with Pedal Tray 
 
